@@ -1,0 +1,12 @@
+Romance
+Vulgar-Latin 0
+
+Sardinian 1
+Logudorese 1
+Campidarese 1
+Eastern-Romance 0
+Italo-Western 0
+.
+data/indeur/easternromance.txt
+data/indeur/italowestern.txt
+.

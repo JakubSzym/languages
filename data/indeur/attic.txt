@@ -1,0 +1,8 @@
+Attic
+Attic 0
+
+Classical-Greek 0
+Koine-Greek 0
+.
+data/indeur/greek.txt
+.

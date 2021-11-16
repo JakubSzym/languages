@@ -1,0 +1,6 @@
+Southwest-Sami
+Proto-Southwest-Sami 0
+
+Southern-Sami 1
+Ume-Sami 1
+!

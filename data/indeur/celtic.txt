@@ -1,0 +1,9 @@
+Celtic
+Proto-Celtic 0
+
+Insular_dialects 0
+Continental_dialects 0
+.
+data/indeur/continentalceltic.txt
+data/indeur/insularceltic.txt
+.

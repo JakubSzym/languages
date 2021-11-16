@@ -1,0 +1,16 @@
+West-Germanic
+West-Germanic 0
+
+Old-High-German 0
+Old-Dutch 0
+Old-East-Low-Franconian 0
+Old-Anglo-Frisian 0
+Old-Saxon 0
+.
+data/indeur/uppergerman.txt
+data/indeur/centralgerman.txt
+data/indeur/eastlowfranconian.txt
+data/indeur/westlowfranconian.txt
+data/indeur/anglofrisian.txt
+data/indeur/saxon.txt
+.

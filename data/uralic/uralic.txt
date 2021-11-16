@@ -1,0 +1,19 @@
+Uralic
+Proto-Uralic 0
+
+Proto-Finnic 0
+Proto-Permic 0
+Proto-Sami 0
+Proto-Ugric 0
+Proto-Mari 0
+Proto-Mordvinic 0
+Proto-Samoyedic 0
+.
+data/uralic/baltofinnic.txt
+data/uralic/permic.txt
+data/uralic/sami.txt
+data/uralic/ugric.txt
+data/uralic/mari.txt
+data/uralic/samoyedic.txt
+data/uralic/mordvinic.txt
+.

@@ -1,0 +1,15 @@
+Balto-Finnic
+Proto-Finnic 0
+
+Estonian 1
+Voro 1
+Seto 1
+Finnish 1
+Ingrian 1
+Livonian 1
+Veps 1
+Votic 0
+Karelian 1
+Ludic 1
+Olonets_Karelian 1
+!

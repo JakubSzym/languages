@@ -1,0 +1,17 @@
+Prakrit-Descendants
+Prakrit 0
+
+Maharashtri 0
+Shawrasani 0
+Magadhi 0
+Gandhari 0
+Niya 0
+Paisaci 0
+Pali 0
+.
+data/indeur/maharashtri.txt
+data/indeur/insularindic.txt
+data/indeur/centralindic.txt
+data/indeur/magadhi.txt
+data/indeur/bihari.txt
+.

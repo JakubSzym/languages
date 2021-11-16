@@ -1,0 +1,13 @@
+Iranian
+Proto-Iranian 0
+
+Avestan 0
+Proto-Eastern-Iranian 0
+Old-Persian 0
+Proto-North-Western-Iranian 0
+.
+data/indeur/southeasterniranian.txt
+data/indeur/northeasterniranian.txt
+data/indeur/southwesterniranian.txt
+data/indeur/northwesterniranian.txt
+.

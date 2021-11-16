@@ -1,0 +1,8 @@
+East-Slavic
+Old-East-Slavic 0
+
+Russian 1
+Ruthenian 0
+.
+data/indeur/ruthenian.txt
+.

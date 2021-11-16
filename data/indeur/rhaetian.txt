@@ -1,0 +1,7 @@
+Rhaetian
+Rhaetian 0
+
+Friulan 1
+Romansch 1
+Ladin 1
+!

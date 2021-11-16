@@ -1,0 +1,9 @@
+Italic
+Proto-Italic 0
+
+Latino-Faliscan 0
+Sabellic 0
+.
+data/indeur/latinofaliscan.txt
+data/indeur/sabellic.txt
+.

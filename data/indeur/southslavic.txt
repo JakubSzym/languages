@@ -1,0 +1,9 @@
+South-Slavic
+Old-South-Slavic 0
+
+Slovene 1
+Serbo-Croatian 1
+Old-Church-Slavonic 0
+.
+data/indeur/southeastslavic.txt
+.

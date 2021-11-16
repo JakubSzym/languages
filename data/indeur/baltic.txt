@@ -1,0 +1,11 @@
+Baltic
+Proto-Baltic 0
+
+Galindan 0
+Prussian 0
+Sudovian 0
+Latvian 1
+Lithuanian 1
+Selonian 0
+Semigalian 0
+!

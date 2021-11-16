@@ -1,0 +1,14 @@
+Iberian
+Iberian 0
+
+Aragonese 1
+Asturian 1
+Estremadurian 1
+Leonese 1
+Galician 1
+Portuguese 1
+Spanish 1
+Eonavian 1
+Fala 1
+Mozarabian 0
+!

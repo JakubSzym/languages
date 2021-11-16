@@ -1,0 +1,9 @@
+West-Nordic
+Old-West-Norse 0
+
+Faroese 1
+Greenlandic-Norse 0
+Norwegian 1
+Icelandic 1
+Norn 0
+!

@@ -1,0 +1,8 @@
+Dardic
+Old-Western-Indic 0
+
+Kashmiri 1
+Nuristani 1
+Pashayi 1
+Shina 1
+!

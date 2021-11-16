@@ -1,0 +1,10 @@
+Sami
+Proto-Sami 0
+
+Proto-West-Sami 0
+Proto-East-Sami 0
+.
+data/uralic/westsami.txt
+data/uralic/westsami.txt
+.
+

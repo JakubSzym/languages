@@ -1,0 +1,9 @@
+Hindustani
+Hindustani 0
+
+Hindi 1
+Urdu 1
+Haryanvi 1
+Dakhini 1
+Pekhta 0
+!

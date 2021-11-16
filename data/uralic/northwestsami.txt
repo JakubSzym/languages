@@ -1,0 +1,7 @@
+Northwest-Sami
+Proto-Northwest-Sami 0
+
+Lule-Sami 1
+Northern-Sami 1
+Pite-Sami 1
+!

@@ -1,0 +1,12 @@
+Western-Indic
+Old-Western-Indic 0
+
+Bhil 1
+Domari 1
+Gujarati 1
+Rajasthani 1
+Romani 1
+.
+data/indeur/northwesternindic.txt
+data/indeur/dardic.txt
+.

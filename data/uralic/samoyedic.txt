@@ -1,0 +1,12 @@
+Samoyedic
+Proto-Samoyedic 0
+
+Enets 1
+Kamassian 0
+Mator 0
+Nganasan 1
+Selkup 1
+Yurats 0
+Forest_Nenets 1
+Tundra_Nenets 1
+!

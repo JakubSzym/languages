@@ -1,0 +1,8 @@
+Permic
+Proto-Permic? 0
+
+Komi-Permyak 1
+Komi-Yodzyak 1
+Komi-Zyrian 1
+Udmurt 1
+!

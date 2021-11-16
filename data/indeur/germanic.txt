@@ -1,0 +1,11 @@
+Germanic
+Proto-Germanic 0
+
+Old-Norse 0
+Proto-West-Germanic 0
+Proto-East-Germanic 0
+.
+data/indeur/nordic.txt
+data/indeur/westgermanic.txt
+data/indeur/eastgermanic.txt
+.

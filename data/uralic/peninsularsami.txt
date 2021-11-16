@@ -1,0 +1,6 @@
+Peninsular-Sami
+Proto-Peninsular-Sami 0
+
+Kildin-Sami 1
+Ter-Sami 1
+!

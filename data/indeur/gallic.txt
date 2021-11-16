@@ -1,0 +1,14 @@
+Gallic
+Gallic 0
+
+Arpitan 1
+Cisalpine 0
+Langue-D'Oil 0
+Old-Occitan 0
+Rhaetian 0
+.
+data/indeur/cisalpine.txt
+data/indeur/languedoil.txt
+data/indeur/occitan.txt
+data/indeur/rhaetian.txt
+.

@@ -1,0 +1,25 @@
+Indoeuropean
+Proto-Indo-European 0
+
+Proto-Anatolian 0
+Proto-Indo-Iranian 0
+Proto-Hellenic 0
+Proto-Italic 0
+Proto-Celtic 0
+Proto-Germanic 0
+Tocharian 0
+Proto-Balto-Slavic 0
+Proto-Albanian 0
+Proto-Armenian 0
+.
+data/indeur/anatolian.txt
+data/indeur/indoiranian.txt
+data/indeur/hellenic.txt
+data/indeur/italic.txt
+data/indeur/celtic.txt
+data/indeur/germanic.txt
+data/indeur/tocharian.txt
+data/indeur/baltoslavic.txt
+data/indeur/albanian.txt
+data/indeur/armenian.txt
+.

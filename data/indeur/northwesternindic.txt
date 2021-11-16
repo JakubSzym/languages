@@ -1,0 +1,9 @@
+North-Western-Indic
+Old-Western-Indic 0
+
+Dogri 1
+Lahnda 1
+Potwari 1
+Punjabi 1
+Sindhi 1
+!

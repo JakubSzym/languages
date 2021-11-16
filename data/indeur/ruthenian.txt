@@ -1,0 +1,7 @@
+Ruthenian
+Ruthenian 0
+
+Belarussian 1
+Ukrainian 1
+Rusyn 1
+!

@@ -1,0 +1,12 @@
+Central-Indic
+Shawrasani 0
+
+Hindustani 0
+Old-Western-Indic 0
+Old-Pahari 0
+.
+data/indeur/hindustani.txt
+data/indeur/westernindic.txt
+data/indeur/centralpahari.txt
+data/indeur/easternpahari.txt
+.

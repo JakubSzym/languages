@@ -1,0 +1,9 @@
+Latino-Faliscan
+Latino-Faliscan 0
+
+Latin 1
+Faliscan 0
+Vulgar-Latin 0
+.
+data/indeur/romance.txt
+.

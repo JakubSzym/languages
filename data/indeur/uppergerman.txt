@@ -1,0 +1,9 @@
+Upper-German
+Old-High-German 0
+
+German 1
+Allemanic 1
+Swiss-German 1
+Cimbrian 1
+Austro-Bavarian 1
+!

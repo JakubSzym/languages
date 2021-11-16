@@ -1,0 +1,11 @@
+Hellenic
+Proto-Hellenic 0
+
+Mycenaean 0
+Dorian 0
+Aeolic 0
+.
+data/indeur/dorian.txt
+data/indeur/aeolic.txt
+data/indeur/mycenaean.txt
+.

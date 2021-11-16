@@ -1,0 +1,7 @@
+West-Low-Franconian
+Old-Dutch 0
+
+Dutch 1
+Afrikaans 1
+Flemish 1
+!

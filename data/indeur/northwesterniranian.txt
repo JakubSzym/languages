@@ -1,0 +1,9 @@
+North-Western-Iranian
+Proto-North-Western-Iranian 0
+
+Median 0
+Proto-Caspian 0
+.
+data/indeur/median.txt
+data/indeur/caspian.txt
+.

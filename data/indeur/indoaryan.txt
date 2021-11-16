@@ -1,0 +1,8 @@
+Indo-Aryan
+Vedic-Sanskrit 0
+
+Sanskrit 1
+Prakrit 0
+.
+data/indeur/prakrit.txt
+.

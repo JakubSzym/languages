@@ -1,0 +1,7 @@
+Insular-Indic
+Maharashtri 0
+
+Dhivehi 1
+Sinhalese 1
+Vedda 0
+!

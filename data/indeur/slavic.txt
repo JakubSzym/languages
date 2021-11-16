@@ -1,0 +1,11 @@
+Slavic
+Proto-Slavic 0
+
+Old-West-Slavic 0
+Old-South-Slavic 0
+Old-East-Slavic 0
+.
+data/indeur/westslavic.txt
+data/indeur/southslavic.txt
+data/indeur/eastslavic.txt
+.

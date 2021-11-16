@@ -1,0 +1,6 @@
+South-East-Slavic
+Old-Church-Slavonic 0
+
+Bulgarian 1
+Macedonian 1
+!

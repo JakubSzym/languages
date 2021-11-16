@@ -1,0 +1,9 @@
+Indo-Iranian
+Proto-Indo-Iranian 0
+
+Vedic-Sanskrit 0
+Proto-Iranian 0
+.
+data/indeur/indoaryan.txt
+data/indeur/iranian.txt
+.

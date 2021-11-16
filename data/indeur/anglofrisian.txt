@@ -1,0 +1,9 @@
+Anglo-Frisian
+Old-Anglo-Frisian 0
+
+Old-English 0
+Old-Frisian 0
+.
+data/indeur/frisian.txt
+data/indeur/anglic.txt
+.

@@ -1,0 +1,9 @@
+Mainland-Sami
+Proto-Mainland-Sami 0
+
+Akkala-Sami 0
+Inari-Sami 1
+Kainu-Sami 0
+Kemi-Sami 0
+Skolt-Sami 1
+!

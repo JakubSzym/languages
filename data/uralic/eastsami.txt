@@ -1,0 +1,9 @@
+East-Sami
+Proto-East-Sami 0
+
+Proto-Mainland-Sami 0
+Proto-Peninsular-Sami 0
+.
+data/uralic/mainlandsami.txt
+data/uralic/peninsularsami.txt
+.

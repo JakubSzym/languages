@@ -1,0 +1,9 @@
+Balto-Slavic
+Proto-Balto-Slavic 0
+
+Proto-Slavic 0
+Proto-Baltic 0
+.
+data/indeur/slavic.txt
+data/indeur/baltic.txt
+.

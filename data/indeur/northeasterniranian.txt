@@ -1,0 +1,12 @@
+North-Eastern-Iranian
+Proto-Eastern-Iranian 0
+
+Scythian 0
+Bactrian 0
+Khotanese 0
+Khwarezmian 0
+Sogdian 0
+Yaghnobi 0
+.
+data/indeur/scythian.txt
+.

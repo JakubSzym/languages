@@ -1,0 +1,11 @@
+Nordic
+Old-Norse 0
+
+Old-East-Norse 0
+Old-West-Norse 0
+Efdalian 1
+Old-Gutnish 0
+.
+data/indeur/eastnordic.txt
+data/indeur/westnordic.txt
+.

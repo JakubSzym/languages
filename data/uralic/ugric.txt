@@ -1,0 +1,10 @@
+Ugric
+Proto-Ugric 0
+
+Hungarian 1
+Khanty 1
+Eastern_Mansi 1
+Northern_Mansi 1
+Western_Mansi 0
+Southern_Mansi 0
+!

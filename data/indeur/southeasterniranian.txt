@@ -1,0 +1,12 @@
+South-Eastern-Iranian
+Proto-Eastern-Iranian 0
+
+Pamiri 0
+Pashto 1
+Sarikoli 1
+Vanji 0
+Yidgha 0
+Shughni 1
+Yazgulami 1
+Waziri 1
+!

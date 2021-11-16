@@ -1,0 +1,7 @@
+Frisian
+Old-Frisian 0
+
+North-Frisian 1
+West-Frisian 1
+Saterland-Frisian 1
+!

@@ -1,0 +1,9 @@
+Median-Descendants
+Median 0
+
+Parthian 0
+Balochi 1
+Kurdish 1
+Gorani 1
+Zazaki 1
+!

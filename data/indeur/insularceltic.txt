@@ -1,0 +1,12 @@
+Insular
+Insular_dialects 0
+
+Irish 1
+Manx 1
+Scottish_Gaelic 1
+Pictish 0
+Breton 1
+Cornish
+Cumbric 0
+Welsh 1
+!

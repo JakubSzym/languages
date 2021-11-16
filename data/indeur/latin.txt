@@ -1,0 +1,9 @@
+Latin
+Latin 1
+
+Classical-Latin 0
+Ecclesiastical-Latin 1
+Vulgar-Latin 0
+.
+data/indeur/romance.txt
+.

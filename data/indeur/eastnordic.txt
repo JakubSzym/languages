@@ -1,0 +1,6 @@
+East-Nordic
+Old-East-Norse 0
+
+Danish 1
+Swedish 1
+!

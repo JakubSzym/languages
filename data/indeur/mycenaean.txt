@@ -1,0 +1,11 @@
+Mycenaean
+Mycenaean 0
+
+Attic 0
+Ionic 0
+Epic-Greek 0
+Achaean 0
+.
+data/indeur/attic.txt
+data/indeur/achaean.txt
+.
